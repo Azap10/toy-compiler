@@ -1,0 +1,21 @@
+Date        Time Spent      Activity
+-------------------------------------
+2/18        3 hours         Read through spec, watched walkthrough, wrote first lines
+
+2/19        5 hours         Implemented constant folding, propogation, and dead code 
+                            elimination, debugged, tried to begin code generation and
+                            gave up.
+
+2/20        3.5 hours       Worked on code generation.
+
+2/21        3 hours         Finished first draft of code generation, not passing any
+                            tests yet.
+
+2/22        3 hour          Made some fixes to code generation, passing all test cases
+                            for code gen and for optimization, did entirety of part 2
+
+2/27        2 hours         Edge casing, memory errors.
+
+2/28        1.5 hours       Finishing edge casing and memory errors.
+-------------------------------------
+TOTAL:      21 hours
